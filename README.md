@@ -9,3 +9,5 @@ not only protects you from these attacks, but it also protects your logins from 
 credentials. So, there is option to add speech recognition and password protection combines and then generate
 QR using this. QR will include the all documents of the person. We added two- step verification for the 
 documents of the specified person.
+<br>
+This is Python Project.
